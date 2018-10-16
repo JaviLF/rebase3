@@ -10,5 +10,9 @@ public class application extends Application {
     @Override
     public void start(Stage primaryStage) {
         System.out.println("Hola mundo");
+        System.out.println(5+7);
+        System.out.println(7-2);
+        System.out.println(5*7);
+        System.out.println((5*7)/5);
     }
 }
