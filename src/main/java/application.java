@@ -25,5 +25,9 @@ public class application extends Application {
         System.out.println(5*7);
         System.out.println((5*7)/5);
 
+        System.out.println("estoy cansado xdd");
+        System.out.println("estoy aun mas cansado XDDxdd");
+        System.out.println("me voy a dormir alv");
+
     }
 }
