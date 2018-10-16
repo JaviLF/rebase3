@@ -12,6 +12,11 @@ public class application extends Application {
         System.out.println("Hola mundo");
         for (int i=0;i<5;i++){
             System.out.println(i);
+            int j=1;
+            while(j<=i) {
+                System.out.println(j);
+                j++;
+            }
         }
     }
 }
