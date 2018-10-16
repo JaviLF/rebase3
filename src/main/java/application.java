@@ -11,5 +11,6 @@ public class application extends Application {
     public void start(Stage primaryStage) {
         System.out.println("Hola mundo");
         System.out.println(5+7);
+        System.out.println(7-2);
     }
 }
